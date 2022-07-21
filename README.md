@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saralutes
 - 👀 I’m interested in web development, web 3.0, blockchain, and things that are cute.
-- 🌱 I’m currently learning express.js :)
+- 🌱 I’m currently learning express.js, node.js, and AWS Amplify
 - 💞️ I’m looking to collaborate on cool things on the web.
 - 📫 How to reach me email me at saralutes@gmail.com!
 
